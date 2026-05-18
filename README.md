@@ -1,4 +1,4 @@
-# calculative Foundation
+# Calculative Foundation
 # Linear Algebra Based Student Performance Analysis
 
 ## Project Overview
@@ -103,39 +103,6 @@ Dataset size:
 
 ---
 
-# Mathematical Formulas
-
-## L2 Norm
-
-[
-||x||_2 = \sqrt{x_1^2+x_2^2+\cdots+x_n^2}
-]
-
-## Dot Product
-
-[
-a \cdot b = \sum_{i=1}^{n} a_i b_i
-]
-
-## Projection Formula
-
-[
-\text{proj}_b(a)=\frac{a\cdot b}{||b||^2}b
-]
-
-## Eigenvalue Equation
-
-[
-Av = \lambda v
-]
-
-## Singular Value Decomposition
-
-[
-A = U\Sigma V^T
-]
-
----
 
 # Key Results
 
